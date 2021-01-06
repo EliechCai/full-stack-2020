@@ -2,16 +2,25 @@
 
 # dependencies
 /courseinfo/node_modules
+/unicafe/node_modules
 /.pnp
 .pnp.js
+/courseinfo/.pnp
+/courseinfo/.pnp.js
+/unicafe/.pnp
+/unicafe/.pnp.js
 
 # testing
 /coverage
+/courseinfo/coverage
+/unicafe/coverage
 
 # production
 /build
 
 # misc
+/courseinfo/.DS_Store
+/unicafe/.DS_Store
 .DS_Store
 .env.local
 .env.development.local
